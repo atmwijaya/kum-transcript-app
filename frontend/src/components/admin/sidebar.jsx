@@ -42,7 +42,7 @@ const Sidebar = () => {
       id: "nilai",
       name: "Rekap Nilai KUM",
       icon: ChartBarIcon,
-      path: "/admin/nilai",
+      path: "/admin/rekap-nilai-kum",
     },
     {
       id: "ultah",
